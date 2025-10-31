@@ -13,6 +13,4 @@ Random Forest     0.924462 (R²), 0.521661 (RMSE), 0.401924 (MAE)
 XGBoost           0.914157 (R²), 0.556105 (RMSE), 0.429498 (MAE)
 LightGBM          0.924686 (R²) 0.520886 (RMSE), 0.401280 (MAE)
 
-LightGBM performed best.
-
-![R²](https://img.shields.io/badge/Accuracy-R%C2%B2%20%3D%200.92-brightgreen)
+LightGBM performed best. ![R²](https://img.shields.io/badge/Accuracy-R%C2%B2%20%3D%200.92-brightgreen)
