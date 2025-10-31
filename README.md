@@ -8,10 +8,14 @@ While doing my machine learning course CSE427 at BRAC univarsity I did this proj
 - Used SHAP explainability to show why the model makes decisions
 
 ## Results :
-Linear Regression 0.905752 (R²), 0.582695 (RMSE), 0.428623 (MAE) 
-Random Forest     0.924462 (R²), 0.521661 (RMSE), 0.401924 (MAE)
-XGBoost           0.914157 (R²), 0.556105 (RMSE), 0.429498 (MAE)
-LightGBM          0.924686 (R²) 0.520886 (RMSE), 0.401280 (MAE)
+| Model             | R²           | RMSE         | MAE          |
+| ----------------- | ------------ | ------------ | ------------ |
+| Linear Regression | 0.905752     | 0.582695     | 0.428623     |
+| Random Forest     | 0.924462     | 0.521661     | 0.401924     |
+| XGBoost           | 0.914157     | 0.556105     | 0.429498     |
+| **LightGBM**      | **0.924686** | **0.520886** | **0.401280** |
+
 
 LightGBM performed best. 
+
 ![R²](https://img.shields.io/badge/Accuracy-R%C2%B2%20%3D%200.92-brightgreen)
